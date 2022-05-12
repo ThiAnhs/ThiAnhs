@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Syyyy</h1>
 <p align="center"><img src="https://img.icons8.com/color/96/000000/vietnam-circular.png"/></p>
 <h3 align="center">I'm the newcomer. </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=thianhs" alt="thianhs" /> <img src="https://badges.pufler.dev/repos/ThiAnhs" alt="thianhs" /> </p>
+
+ ## <p align="center">Visitor's count :eyes:</p>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{ThiAnhs}/count.svg" alt="ThiAnhs :: Visitor's Count" /></p>
 
 ## 📫 Connect with me:
 
